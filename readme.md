@@ -9,7 +9,7 @@ This was made as project assignment during the third semester of my bachelors in
 - bitwise AND
 - bitwise XOR
 
-The necessary documentation can be found [here](https://www.dropbox.com/s/hm18l6369ako37s/Two%20Bit%20ALU%20Specs.pdf?dl=0).
+The necessary documentation can be found [here](https://www.dropbox.com/s/d9dpcaoh0luv5twTwo%20Bit%20%ALU%20Documentation.pdf?dl=0).
 
 Although I've made the best efforts to make these as error-free as possible, I do not guarantee the accuracy of these diagrams by any means. So, I would not recommend following these circuit diagrams as the only source of truth while implementing any of the circuits in hardware. A lot of the circuits could be improved upon, especially in terms of gate cost.
 
